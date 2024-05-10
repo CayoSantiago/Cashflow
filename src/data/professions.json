@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Airline Pilot",
+    "salary": 9500,
+    "savings": 400,
+    "expenses": {
+      "taxes": 2350,
+      "home": 1330,
+      "car": 300,
+      "creditCard": 710,
+      "other": 2210
+    },
+    "costPerChild": 480,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 143000 },
+      { "key": "car", "name": "Car Loans", "value": 15000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 23000 }
+    ]
+  },
+  {
+    "title": "Business Manager",
+    "salary": 4600,
+    "savings": 400,
+    "expenses": {
+      "taxes": 910,
+      "home": 700,
+      "school": 60,
+      "car": 120,
+      "creditCard": 140,
+      "other": 1000
+    },
+    "costPerChild": 240,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 75000 },
+      { "key": "school", "name": "School Loans", "value": 12000 },
+      { "key": "car", "name": "Car Loans", "value": 6000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 4000 }
+    ]
+  },
+  {
+    "title": "Doctor (MD)",
+    "salary": 13200,
+    "savings": 400,
+    "expenses": {
+      "taxes": 3420,
+      "home": 1900,
+      "school": 750,
+      "car": 380,
+      "creditCard": 320,
+      "other": 2880
+    },
+    "costPerChild": 640,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 202000 },
+      { "key": "school", "name": "School Loans", "value": 150000 },
+      { "key": "car", "name": "Car Loans", "value": 19000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 10000 }
+    ]
+  },
+  {
+    "title": "Engineer",
+    "salary": 4900,
+    "savings": 400,
+    "expenses": {
+      "taxes": 1050,
+      "home": 700,
+      "school": 60,
+      "car": 140,
+      "creditCard": 170,
+      "other": 1090
+    },
+    "costPerChild": 250,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 75000 },
+      { "key": "school", "name": "School Loans", "value": 12000 },
+      { "key": "car", "name": "Car Loans", "value": 7000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 5000 }
+    ]
+  },
+  {
+    "title": "Janitor",
+    "salary": 1600,
+    "savings": 560,
+    "expenses": {
+      "taxes": 280,
+      "home": 200,
+      "car": 60,
+      "creditCard": 110,
+      "other": 300
+    },
+    "costPerChild": 70,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 20000 },
+      { "key": "car", "name": "Car Loans", "value": 4000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 3000 }
+    ]
+  },
+  {
+    "title": "Lawyer",
+    "salary": 7500,
+    "savings": 400,
+    "expenses": {
+      "taxes": 1830,
+      "home": 1100,
+      "school": 390,
+      "car": 220,
+      "creditCard": 230,
+      "other": 1650
+    },
+    "costPerChild": 380,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 115000 },
+      { "key": "school", "name": "School Loans", "value": 78000 },
+      { "key": "car", "name": "Car Loans", "value": 11000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 7000 }
+    ]
+  },
+  {
+    "title": "Mechanic",
+    "salary": 2000,
+    "savings": 670,
+    "expenses": {
+      "taxes": 360,
+      "home": 300,
+      "car": 60,
+      "creditCard": 110,
+      "other": 450
+    },
+    "costPerChild": 110,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 31000 },
+      { "key": "car", "name": "Car Loans", "value": 3000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 3000 }
+    ]
+  },
+  {
+    "title": "Nurse",
+    "salary": 3100,
+    "savings": 480,
+    "expenses": {
+      "taxes": 600,
+      "home": 400,
+      "school": 30,
+      "car": 100,
+      "creditCard": 140,
+      "other": 710
+    },
+    "costPerChild": 170,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 47000 },
+      { "key": "school", "name": "School Loans", "value": 6000 },
+      { "key": "car", "name": "Car Loans", "value": 5000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 4000 }
+    ]
+  },
+  {
+    "title": "Police Officer",
+    "salary": 3000,
+    "savings": 520,
+    "expenses": {
+      "taxes": 580,
+      "home": 400,
+      "car": 100,
+      "creditCard": 110,
+      "other": 690
+    },
+    "costPerChild": 160,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 46000 },
+      { "key": "car", "name": "Car Loans", "value": 5000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 3000 }
+    ]
+  },
+  {
+    "title": "Secretary",
+    "salary": 2500,
+    "savings": 710,
+    "expenses": {
+      "taxes": 460,
+      "home": 400,
+      "car": 80,
+      "creditCard": 110,
+      "other": 570
+    },
+    "costPerChild": 140,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 38000 },
+      { "key": "car", "name": "Car Loans", "value": 4000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 3000 }
+    ]
+  },
+  {
+    "title": "Teacher (K-12)",
+    "salary": 3300,
+    "savings": 400,
+    "expenses": {
+      "taxes": 630,
+      "home": 500,
+      "school": 60,
+      "car": 100,
+      "creditCard": 140,
+      "other": 760
+    },
+    "costPerChild": 180,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 50000 },
+      { "key": "school", "name": "School Loans", "value": 12000 },
+      { "key": "car", "name": "Car Loans", "value": 5000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 4000 }
+    ]
+  },
+  {
+    "title": "Truck Driver",
+    "salary": 2500,
+    "savings": 750,
+    "expenses": {
+      "taxes": 460,
+      "home": 400,
+      "car": 80,
+      "creditCard": 110,
+      "other": 570
+    },
+    "costPerChild": 140,
+    "liabilities": [
+      { "key": "home", "name": "Home Mortgage", "value": 38000 },
+      { "key": "car", "name": "Car Loans", "value": 4000 },
+      { "key": "creditCard", "name": "Credit Card Debt", "value": 3000 }
+    ]
+  }
+]
